@@ -2,7 +2,7 @@ return {
     // host: 'https://0bf3-103-111-251-2.ngrok-free.app',
     host: 'http://172.26.248.39:8100',
     keyFilePath: './zakyd-110698-d3f251d8ebcf.json',
-    spreadsheetId: '1xamBiK7OK6u5uOFZ_fofs14LWcCBd9C7Syu7NhW2WFc',
+    spreadsheetId: '1EJSEx31iWWiOl5HWonyYErt2ECmNfDMI_S0gyvGdK7o',
     sheetName: 'Sheet1',
     startColumn: 'A',
     startRow: 2,
