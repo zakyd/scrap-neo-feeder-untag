@@ -1,4 +1,4 @@
-return {
+module.exports = {
     // host: 'https://0bf3-103-111-251-2.ngrok-free.app',
     host: 'http://172.26.248.39:8100',
     keyFilePath: './zakyd-110698-d3f251d8ebcf.json',
